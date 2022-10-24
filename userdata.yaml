@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo yum install httpd
+sudo yum enable httpd
+sudo yum start httpd
